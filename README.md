@@ -19,7 +19,7 @@ The app accepts a comma seperated list as an input file.
 
 ## Credits
 
-- Time series [AnomalyDetection](https://github.com/twitter/Anomaly-Detection-App-Ios) for Swift
+- Time series [AnomalyDetection](https://github.com/ambeckley/AnomalyDetection-Swift) for Swift
 - Swift language for having cool Charts
 
 ## References
