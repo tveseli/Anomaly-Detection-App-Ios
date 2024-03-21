@@ -5,8 +5,13 @@ Anomaly detection for Apple devices written in Swift
 
 ## Getting Startedd
 
+The app accepts a comma seperated list as an input file. 
 
+<img width="83" alt="Screenshot 2024-03-21 at 12 42 32 PM" src="https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/1685df41-1d8e-4453-9525-be7c620359f8">
 
+- Time is a string value that can be anything. This will just be the X value of the graph.
+
+- Value can be an Int or a Double. This is where you would put your data series.
 
 ## Parameters
 
