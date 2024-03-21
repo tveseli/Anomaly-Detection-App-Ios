@@ -16,6 +16,11 @@ The app accepts a comma seperated list as an input file.
 
 ## Parameters
 
+- Alpha
+- Maximum Anomalies, This is a % of the dataset which could be Anomalies.
+- Period
+- Focus on Positive, Negative, or Both
+
 <img width="442" alt="Screenshot 2024-03-21 at 12 38 28 PM" src="https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/413390ca-4c2c-4732-b8a7-42e13cb82fbd">
 
 ## Credits
