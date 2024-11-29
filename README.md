@@ -1,6 +1,9 @@
 # Anomaly-Detection-App-Ios
 
 Anomaly detection for Apple devices written in Swift
+
+Full article explaining the process can be found here: [Porting Twitter's Anomaly Detection Algorithm To Swift](https://towardsdatascience.com/porting-twitters-anomaly-detection-algorithm-to-swift-c65dc602e809). 
+
 <img width="991" alt="Screenshot 2024-03-21 at 12 48 25 PM" src="https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/4d171d3b-b35b-493d-a32b-444beed540ea">
 
 
