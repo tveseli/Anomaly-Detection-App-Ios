@@ -1,4 +1,5 @@
 # Anomaly-Detection-App-Ios
+https://towardsdatascience.com/porting-twitters-anomaly-detection-algorithm-to-swift-c65dc602e809
 
 Anomaly detection for Apple devices written in Swift
 
@@ -8,8 +9,6 @@ Full article explaining the process can be found here: [Porting Twitter's Anomal
 
 
 https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/78581d04-0d9d-456b-8b6d-36be41000825)
-
-https://towardsdatascience.com/porting-twitters-anomaly-detection-algorithm-to-swift-c65dc602e809
 
 ## Getting Startedd
 
