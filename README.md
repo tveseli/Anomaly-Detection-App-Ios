@@ -7,9 +7,9 @@ Full article explaining the process can be found here: [Porting Twitter's Anomal
 <img width="991" alt="Screenshot 2024-03-21 at 12 48 25 PM" src="https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/4d171d3b-b35b-493d-a32b-444beed540ea">
 
 
-![video](https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/78581d04-0d9d-456b-8b6d-36be41000825)
+https://github.com/ambeckley/Anomaly-Detection-App-Ios/assets/45105699/78581d04-0d9d-456b-8b6d-36be41000825)
 
-
+https://towardsdatascience.com/porting-twitters-anomaly-detection-algorithm-to-swift-c65dc602e809
 
 ## Getting Startedd
 
